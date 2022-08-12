@@ -1,4 +1,4 @@
-<h1> Olá, eu sou <i> Matheus </i> </h1>
+<h1> Olá, eu sou Matheus Miguel </h1>
 
 - [x] Cursando Engenharia de Software (2°)
 - [x] Back-end Developer  
