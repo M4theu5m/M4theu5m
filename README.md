@@ -1,6 +1,6 @@
 <h1> Olá, eu sou Matheus Miguel </h1>
 
-- [x] Cursando Engenharia de Software (2°)
+- [x] Cursando Engenharia de Software (3°)
 - [x] Back-end Developer  
 
 <div style="display: inline_block"><br>
